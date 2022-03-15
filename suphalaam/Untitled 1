@@ -1,0 +1,15 @@
+	"order_id": 1,
+    "customer": "Karita Klimochkin",
+    "country": "Sweden",
+    "address": "8978 Westridge Park",
+    "product_title": "Yellow-bellied marmot",
+    "product_description": "Bread - Flat Bread",
+    "date": "21/08/2020",
+    "status": "Delivered"
+    
+    APIs to be developed:
+1. Create Customer
+2. Create Product
+3. Place Order
+4. Update Order Status
+5. Fetch All Orders .
